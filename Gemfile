@@ -1,4 +1,4 @@
 source 'http://rubygems.org'
 
-gem 'bitbucket_rest_api', '~> 0.1.5'
-gem 'octokit', '~> 2.0'
+gem 'bitbucket_rest_api', '~> 0.1.7'
+gem 'octokit', '~> 4.0'
